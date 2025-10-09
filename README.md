@@ -9,7 +9,6 @@ Synthesize 4Bit-Up-Down-Asynchronous-Reset-Counter design using Constraints and 
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 
 Synthesis: Genus
-
 ### Step 1: Getting Started
 
 Synthesis requires three files as follows,
